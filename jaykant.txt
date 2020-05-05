@@ -1,0 +1,15 @@
+Hello!
+
+I am Jaykant Tiano. This file contains my project proposal.
+
+Project:
+
+The project will be a website that allows users to share their PC builds/setups, write descriptions, and include shopping links for the items they used. Other users will be able to rate and comment on their posts. The website will also include a forum where users can create discussions (e.g. rank the top ten builds they like, or ask advices for the gaming rig they are currently building).
+
+This project will have four main entities (more might be added):
+* Users
+* Builds
+* Posts
+* Comments
+
+
