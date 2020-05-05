@@ -1,0 +1,6 @@
+Hi
+
+I am Cheng Yu Hsieh. My project idea is make a webpage that like Instagram. The user can post photos and comments on them. Therefore, the user can interact with other users.
+
+The three entities will be Users, Photos, and Comments.
+
