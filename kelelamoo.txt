@@ -1,0 +1,5 @@
+# collboration-lelamoo
+
+Chronic illnesses are health conditions or diseases that are ongoing or life-long. The hardest part of managing these health problems is the constant time and energy it takes to meet all health needs. I want to create something that will make this easier for people to do so that they can manage their health with less stress.
+
+I will be creating a web application that is like a health/fitness tracker or calendar. Users will be able to keep track of their medications, their doctor's appointments & information, and also keep track of important vitals. 
