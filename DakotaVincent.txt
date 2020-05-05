@@ -1,0 +1,6 @@
+Hey everyone this is Dakota!
+
+So I have always been into making stuff and I love to see what people are constantly making and coming up with. I 
+love the maker community and would like to interact with it more in an easier format. My idea is to create a website 
+where makers can post their pojects and collaborate with one on their projects, or to show off and what they have 
+made. My entities will be Users, Collaborations, and Show (where you can show off your latest creations).
