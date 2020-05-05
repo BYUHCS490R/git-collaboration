@@ -1,0 +1,7 @@
+Aloha! My name is Sungsoo Kim and I'm from South Korea.
+
+For my final project, I want to build a group study application, which was my project for CIS 305 and CIS 405.
+In the application, there will be three entities: user, event, and subject, but it may be slightly modified later.
+User is literally means the user of my application.
+Event is the place and time where people are going to study together.
+Subject is what they are going to study with.
