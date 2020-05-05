@@ -1,0 +1,6 @@
+Aloha. This is Jerico. From the Philippines.
+
+My project idea is to have a card-trading-like game. Kind of like a Yu-gi-oh.
+Or like a pokemon-card game. USERS can trade and put their CARDS in a TRADING QUEUE.
+
+Mahalo.
