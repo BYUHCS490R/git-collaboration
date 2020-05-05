@@ -1,0 +1,3 @@
+Hello, I'm Gilmo from South Korea. I'm majaring in Computer Science.
+Here is my final project idea. I want to create a website where people can find and share different kinds of working out videos from youTube.
+My Three entities are going to be Users, videos, and reviews.
