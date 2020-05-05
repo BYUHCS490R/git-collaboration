@@ -1,0 +1,9 @@
+Ethan Coleman / May 4, 2020 / CS490R
+Final Project Proposal
+
+Hello, I'm Ethan and I'm majoring in Computer Science, but I'm not exactly sure
+what kind of programming I want to be doing in my future. Right now I am mostly
+interested in machine learning or AI kind of stuff, but I also like gaming technology.
+
+For my final project, I think I want to build an application to manage finances, but one
+that focuses on monthly recurring fees and budgeting. MY three entities will be Users, Accounts/Fees, and Budgets.
