@@ -1,0 +1,6 @@
+Aloha my name is Tsu Ping Kuang and I can go by Steven
+
+In this final project my idea is to create a twitter-like project
+that can allow user to post picture, video, and article
+Moreover, that can also allow users to message each other.
+THe three entities will be user, photo and article, and comment below the post.
