@@ -1,0 +1,13 @@
+Aloha!
+
+My name is HyokJun Won(Altair).
+
+Let me describe the project what I want to do.
+
+I want to make the find the class and location of class.
+
+This is the project that I did on CIS 305 class.
+
+Sometimes it can be hard for students who are looking for the class room especially for beginning of semester.
+
+So I want to make the projects that select the class and location, and find the class room for the users.
