@@ -1,0 +1,7 @@
+I am Shohei Kurokawa and I am a junior student and majoring in CS.
+
+What I would like to learn through thing is corse is how to manage our project in practical like using git, how to make a website with full-stack, and how to utilize APIs.
+
+Here is my programmin idea to create a website through the semester:
+I would like to create a website to sugest where is the firing waves for surfers using AI.
+Entities are users, video records, and reviews.
