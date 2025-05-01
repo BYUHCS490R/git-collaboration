@@ -1,0 +1,5 @@
+I am Chris Slade and I am the instructor.
+
+You should include a paragraph about what you want to learn from this class.
+
+Then list your ideas for the web application you think you want to create.
