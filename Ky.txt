@@ -1,0 +1,3 @@
+I'm going to make a Web API like twitter or face book. It will have at least two entities like post, add comment, or like.
+
+for my plan now, I want to add the function that I can post pictures like that I do on Instagram. And my friends can add comment on the post or like it. If I can I want to make users need to add their profile picture for their account information..
