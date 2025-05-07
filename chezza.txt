@@ -1,0 +1,11 @@
+Hi, my name is Chezza Bomediano from the Philippines and a junior studying Computer Science. I like the sound of keyboards (not the clacky ones), 
+somehow the sound pushes me to also be productive, and I like being productive. 
+
+The project I am planning to create is a delivery or errand web app, called Campus Dash or a simple Income/Expenses tracker. 
+
+The Campus Dash is delivery/errand web app, that a student can post or make a trip in the app saying they are going to Walmart and a schedule of 
+the trip. Other students can then request to buy something from them, or pick up something. The student making the trip can accept or decline the
+request. 
+
+Another idea is a simple Income and Expenses tracker for students. I think especially International students here in BYUH needs this. 
+
