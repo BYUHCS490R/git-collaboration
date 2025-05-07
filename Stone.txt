@@ -1,0 +1,9 @@
+Aloha! I'm Alema Stone -- I'm a Senior majoring in CS and minoring in CFM and Pacific Island Studies.
+
+I'm really excited to actually build something in this class, and learning about all of the steps that come along with that. 
+
+I have a couple of ideas for a project, but I haven't settled on anything yet..
+Idea 1 --> A ticketing software that stores and manages basic customer info for a business.
+Idea 2 --> A VoC (Voice of Customer) system that asks customers about their experience in a business.
+Idea 3 --> Group messaging platform (similar to Messenger/WhatsApp) for coaches to connect with their players/players parents without them needing to download an app.
+There's plenty more ideas but I'm not quite sure which option to go with..
