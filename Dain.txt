@@ -1,0 +1,5 @@
+My name is Dain and also go by Stella.
+I'm from Korea and I'm in Computer Science major.
+
+I'm thinking to make a clone of NAVER Blog stuffs.
+It will have a post, comments, reaction of users.
