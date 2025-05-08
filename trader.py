@@ -34,3 +34,22 @@ class AlpacaTrader:
                self.symbol = SYMBOL
                self.position_size = POSITION_SIZE
                logging.info(f"Trader initialized for {self.symbol}")
+ def check_trading_conditions(self):
+           """Check if the market is open"""
+           try:
+               clock = self.api.get_clock()
+               if not clock.is_open:
+                   logging.info("Market is closed.")
+                   return False
+               return True
+           except Exception as e:
+               logging.error(f"Error checking market conditions: {str(e)}")
+               return False
+
+       def execute_trade(self, action):
+           """Execute trading orders"""
+           try:
+               # Trading logic here
+               logging.info(f"Executing trade: {action}")
+           except Exception as e:
+               logging.error(f"Error executing trade: {str(e)}")
