@@ -1,0 +1,7 @@
+My Name is Jasveen, Senior student majoring in CS.
+I'm from Fiji. 
+
+Here are some of the ideas for my final project.
+1 - I will be making an app called SkillSwap. My entities will include Users, Skills, and Requests.
+2 - I will be making an app called GameHub. My entities will include Users, Games, and Scores.
+3 - I will be making an app called FitnessTracker. My entities will include Users, Workouts, and ProgressLogs.
