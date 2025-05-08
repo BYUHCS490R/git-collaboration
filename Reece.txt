@@ -1,0 +1,3 @@
+My name is Reece Lee and I am a senior. I walked last semester so I am finishing up my last semester here at BYUH. I am engaged and will be moving to Utah after I graduate. 
+
+My final project idea is to create a page where people can share their favorite anime on a social platform. There will be users, titles, and lists that will allow the different users to see what anime people like in an ordered list. These lists will act like posts on the page of each user than can be liked and commented on. 
