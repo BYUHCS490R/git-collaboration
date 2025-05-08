@@ -1,0 +1,4 @@
+Aloha, my name is Lata and I'm from Tonga. I am a Senior majoring in Computer Science! 
+
+The Project that I will be doing for my Final Project is creating an Airbnb website that allows people to book a reservation 
+while they are on vacation!
