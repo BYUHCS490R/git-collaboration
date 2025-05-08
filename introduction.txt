@@ -1,1 +1,0 @@
-i am trying to write a program that allow user to create an account into my databased and after logging into my website, it allows them to use my paper trading program to help them simulate stock trading in alpaca "trading broker"
