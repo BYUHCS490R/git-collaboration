@@ -1,0 +1,2 @@
+I am Lucas Beck. I am a senior in Computer Science.
+I am still thinking on what my final project should be. I am thinking to do a Twitter clone.
