@@ -1,0 +1,5 @@
+I am Hyun Kim and I am from Korea. I am an aspiring back-end engineer.
+
+In this class, I want to learn how to structure a full web application from front to back.
+
+My project idea is to build a platform where BYUH students can buy, sell, or auction items in a safe and trusted campus community environment. It would include user accounts, item listings, bidding or direct sales, and possibly a chat or notification system.
