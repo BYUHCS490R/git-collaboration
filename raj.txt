@@ -1,0 +1,3 @@
+I am Nagaraj Govindaraj, a senior at BYU–Hawaii from India. I love solving technical problems and am very interested in sports, especially cricket.
+
+For my final project, I will create a web platform where users can share and discuss cricket matches. The three main entities will be Users, Matches, and Comments. Users can post upcoming or past cricket matches, and other users can comment to share their opinions or match analysis.
